@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi we are in main branch.
+=======
+Thanks teacher...You inspire us.
+>>>>>>> developer_C8242_George
